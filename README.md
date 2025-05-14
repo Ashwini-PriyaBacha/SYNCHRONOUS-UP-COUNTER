@@ -56,6 +56,9 @@ begin
 end
 endmodule
 ```
+**TRUTH TABLE**
+
+![Screenshot 2025-05-12 184414](https://github.com/user-attachments/assets/a2324802-8fb9-4128-ab91-8c7fce427fc6)
 
 **RTL LOGIC UP COUNTER**
 
@@ -63,12 +66,8 @@ endmodule
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![Screenshot 2025-05-12 184309](https://github.com/user-attachments/assets/7495ed7e-5f72-479d-a9c5-0ef8534936d2)
+![exp 11](https://github.com/user-attachments/assets/6062879a-ef41-4b39-bd92-7e5680b195e4)
 
-
-**TRUTH TABLE**
-
-![Screenshot 2025-05-12 184414](https://github.com/user-attachments/assets/a2324802-8fb9-4128-ab91-8c7fce427fc6)
 
 **RESULTS**
 
